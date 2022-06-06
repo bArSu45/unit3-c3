@@ -1,0 +1,18 @@
+#voucher_list{
+    border: 2px solid black;
+}
+
+.voucher{
+    display: grid;
+    grid-template-columns: repeat(4,fr);
+    grid-template-rows:auto;
+    border: 2px solid black;
+}
+
+#display{
+    width : 100%;
+    height : 50px;
+    background-color: rgb(240, 128, 193);
+    display: flex;
+    justify-content: space-between;
+}

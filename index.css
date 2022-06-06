@@ -1,0 +1,30 @@
+#navbar{
+    width : 100%;
+    height : 50px;
+    background-color: rgb(240, 128, 193);
+    display: flex;
+    justify-content: space-between;
+
+}
+#signup{
+    display: block;
+    font-size: 40px;
+    background-color: rgb(177, 174, 253);
+    width: 30%;
+    height:300px;
+    text-align: center;
+    margin-top: 40px;
+    margin: auto;
+}
+#v{
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 15px;
+}
+#s{
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 15px;
+}
